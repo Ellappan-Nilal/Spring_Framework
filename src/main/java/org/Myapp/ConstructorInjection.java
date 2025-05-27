@@ -1,5 +1,5 @@
 package org.Myapp;
-
+/* Constructor Injection
 public class ConstructorInjection {
     private Service service;
     public Controller(Service service){
@@ -8,6 +8,13 @@ public class ConstructorInjection {
     public void handleRequest(){
         service.doSomething();
     }
+    public void doSomething(){
+        public void doSomething(){
+            System.out.println("Doing some work");
+        }
+
+    }
 }
 
+*/
 
